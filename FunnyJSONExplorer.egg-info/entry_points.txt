@@ -1,0 +1,3 @@
+[console_scripts]
+fje = fje.json_explorer:main
+
